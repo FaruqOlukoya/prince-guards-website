@@ -20,7 +20,7 @@ export function About() {
             </h1>
             <p className="text-xl text-gray-300 leading-relaxed">
               Leading the industry in professional security
-              services since 2018. Our commitment to excellence
+              services since 2019. Our commitment to excellence
               and client satisfaction has made us the trusted
               choice for businesses and individuals nationwide.
             </p>
@@ -38,7 +38,7 @@ export function About() {
               </h2>
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
-                  Founded in 2018, Prince Guards was established
+                  Founded in 2019, Prince Guards was established
                   with a simple yet powerful mission: to provide
                   world-class security services that prioritize
                   professionalism, reliability, and client
@@ -68,7 +68,7 @@ export function About() {
             <div className="grid grid-cols-2 gap-6">
               <div className="bg-gradient-to-br from-[#1e3080] to-[#2a47a8] p-8 rounded-xl text-white text-center">
                 <div className="text-4xl font-bold text-[#d4af37] mb-2">
-                  15+
+                  7+
                 </div>
                 <div className="text-sm">Years Experience</div>
               </div>

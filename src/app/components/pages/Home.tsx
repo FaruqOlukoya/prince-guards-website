@@ -270,7 +270,7 @@ function useCountUp(target: number, duration = 800) {
 }
 
 export function Home() {
-  const { count, ref: counterRef } = useCountUp(15);
+  const { count, ref: counterRef } = useCountUp(7);
 
   return (
     <div className="w-full overflow-x-hidden">

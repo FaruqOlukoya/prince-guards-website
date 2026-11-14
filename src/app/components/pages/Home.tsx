@@ -485,8 +485,8 @@ export function Home() {
                 sub: "Logistics",
               },
               {
-                name: "Gracewood School",
-                initials: "GS",
+                name: "Amarisel School",
+                initials: "AS",
                 color: "#16a085",
                 accent: "#1abc9c",
                 sub: "Education",
